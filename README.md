@@ -1,5 +1,5 @@
 <div id = "header" align="center">
-    <img src="https://giphy.com/gifs/2001-a-space-odyssey-wypKXPQggwaCA" width="100"/>
+    <iframe src="https://giphy.com/embed/wypKXPQggwaCA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2001-a-space-odyssey-wypKXPQggwaCA">via GIPHY</a></p>
 </div>
 
 ### Good morning...
