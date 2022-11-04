@@ -22,7 +22,7 @@
 
 ### Languages:
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" height="35" width="35">
 </div>
 ### Tools:
     
