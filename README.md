@@ -18,9 +18,13 @@
 - 🗺️: Love to travel
 - ⚡ Fun fact: Before working in analytics I used to be a chef. Feel free to reach out for cooking tips/advice!    
 - 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rob-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-teal-6172b538)
+---
 
-    
-
+### Languages:
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+</div>
+### Tools:
     
 
 <!--
