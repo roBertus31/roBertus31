@@ -1,11 +1,14 @@
 <div id = "header" align="center">
-    <img src="https://media.giphy.com/media/wypKXPQggwaCA/giphy.gif" width="480", height = "480"/> 
+    <img src="https://media.giphy.com/media/wypKXPQggwaCA/giphy.gif" width="240", height = "240"/> 
 </div>
 
-### Good morning...
+<h1>
+  Good morning, Dave.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+ 
 
 
-### Hi there 👋
 
 <!--
 **roBertus31/roBertus31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
