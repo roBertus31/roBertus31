@@ -1,9 +1,5 @@
 <div id = "header" align="center">
-    <img src="https://media.giphy.com/media/wypKXPQggwaCA/giphy.gif" width="240", height = "240"/>
-    <h2 align="center">
-        Good morning, Dave.
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-    </h2>
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="508", height = "275"/>
 </div>
 <div id="badges", align="center">
     <a>
@@ -16,7 +12,7 @@
 - 😄 Pronouns: He/Him
 - 👨‍💻: Working as a data analytics developer
 - 🗺️: Love to travel
-- ⚡ Fun fact: Before working in analytics I used to be a chef. Feel free to reach out for cooking tips/advice!    
+- ⚡ Fun fact: Before working in analytics I used to be a chef.   
 - 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rob-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-teal-6172b538)
 ---
 ### Github Activity:
