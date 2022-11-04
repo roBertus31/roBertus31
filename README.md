@@ -19,13 +19,26 @@
 - ⚡ Fun fact: Before working in analytics I used to be a chef. Feel free to reach out for cooking tips/advice!    
 - 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rob-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-teal-6172b538)
 ---
+### Current Work:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roBertus31&theme=dark&background=4c4c4e)](https://git.io/streak-stats)
+
+---
 
 ### Languages:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" height="35" width="35">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="35" width="35">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="35" width="35">
 </div>
-### Tools:
     
+### Tools:
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" height="35" width="35">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" height="35" width="35">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" height="35" width="35">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="35" width="35">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="35" width="35">
+</div>    
 
 <!--
 **roBertus31/roBertus31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
