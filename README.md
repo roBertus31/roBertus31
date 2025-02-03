@@ -1,5 +1,6 @@
 <div id = "header" align="center">
     <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="508", height = "275"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 </div>
 <div id="badges", align="center">
     <a>
