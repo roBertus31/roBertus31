@@ -15,10 +15,6 @@
 - ⚡ Fun fact: Before working in analytics I used to be a chef.   
 - 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rob-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-teal-6172b538)
 ---
-### Github Activity:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=roBertus31&theme=dark&background=4c4c4e&border_radius=100)](https://git.io/streak-stats)
-
----
 
 ### Languages:
 <div>
