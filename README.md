@@ -18,8 +18,8 @@
 ---
 
 ### Languages:
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" height="35" width="35">
+<div>     
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="35" width="35">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="35" width="35">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="35" width="35">
 </div>
