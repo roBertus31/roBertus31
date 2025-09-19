@@ -11,7 +11,7 @@
  
 ### About me...
 - 😄 Pronouns: He/Him
-- 👨‍💻: Working as a data analytics developer
+- 👨‍💻: Working as a data engineer and scientist
 - 🗺️: Love to travel
 - ⚡ Fun fact: Before working in analytics I used to be a chef.   
 - 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rob-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-teal-6172b538)
